@@ -1,0 +1,39 @@
+# Hi there 👋, I'm Someshwar Songara
+
+### 🚀 About Me
+- 🔭 I’m currently working on exciting web projects!
+- 🌱 I’m currently learning advanced web development and AI tools.
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: **[Add your Email or LinkedIn link here]**
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=someshwar-songara&show_icons=true&theme=radical&hide_border=true" alt="Someshwar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🐍 My Contribution Graph
+Here is an automated snake animation generated from my GitHub contributions!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
