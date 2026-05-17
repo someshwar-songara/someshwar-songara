@@ -33,10 +33,12 @@ I’m a dedicated B.Tech. student in Computer Science and Engineering at MIT Gro
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshwar-songara&show_icons=true&theme=radical&hide_border=true" alt="Someshwar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someshwar-songara&theme=radical&hide_border=true" alt="Someshwar's Streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=someshwar-songara&theme=radical&margin-w=15&no-frame=true" alt="Someshwar's GitHub trophies" />
 </p>
 
 ---
