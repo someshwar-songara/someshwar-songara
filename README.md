@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=someshwar-songara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E54E9&icon_color=4776E6&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="github-profile-trophy-tawny.vercel.app/api?username=someshwar-songara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E54E9&icon_color=4776E6&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E54E9&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
