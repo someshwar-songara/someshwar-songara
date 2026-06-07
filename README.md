@@ -1,60 +1,147 @@
-# Someshwar Songara
-<a href="https://github.com/someshwar-songara/someshwar-songara">
-  <img src="banner.svg" alt="Someshwar Songara Banner" width="100%">
-</a>
+<p align="center">
+  <img src="banner.svg" alt="Someshwar Songara Banner" width="800" />
+</p>p>
 
-# Hi there 👋, I'm Someshwar Songara
-
-### B.Tech CSE Student | Web & Android Development | Java, C, C++, Python
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/someshwar-songara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-### 🚀 About Me
-I’m a dedicated B.Tech. student in Computer Science and Engineering at MIT Group of Institutes, Ujjain. I have a strong passion for software development, especially in **Web and Android applications**. I continuously develop my technical skills through hands-on projects and practical learning. I am motivated, eager to learn, and actively expanding my experience in software engineering and modern development practices!
-
-- 🌱 **Currently pursuing:** B.Tech CSE (2025 – 2028)
-- 🎓 **Previous:** Diploma of Education, Computer Science at Govt. Polytechnic College
-- 📫 **How to reach me:** [Connect on LinkedIn](https://www.linkedin.com/in/someshwar-songara/)
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>a>
+    <a href="https://github.com/someshwar-songara" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>a>
+</p>p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+### <p align="center">
+  <img src="banner.svg" alt="Someshwar Songara Banner" width="800" />
+  </p>
 
----
+  <p align="center">
+    <a href="https://www.linkedin.com/in/someshwar-songara/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>a>
+      <a href="https://github.com/someshwar-songara" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>a>
+  </p>p>
 
-### 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someshwar-songara&theme=radical&hide_border=true" alt="Someshwar's Streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=someshwar-songara&theme=radical&margin-w=15&no-frame=true" alt="Someshwar's GitHub trophies" />
-</p>
+  ---
 
----
+  ### About Me
 
-### 🐍 My Contribution Graph
-Here is an automated snake animation generated from my GitHub contributions!
+  I<p align="center">
+    <img src="banner.svg" alt="Someshwar Songara Banner" width="800" />
+    </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/someshwar-songara/someshwar-songara/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/someshwar-songara/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+            </a>
+              <a href="https://github.com/someshwar-songara" target="_blank">
+                  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+                    </a>
+                    </p>
+
+                    ---
+
+                    ### About Me
+
+                    I'm a dedicated **B.Tech. student in Computer Science and Engineering** at **MIT Group of Institutes, Ujjain** (2025 - 2028). I hold a **Diploma in Computer Science** from **Govt. Polytechnic College**, which built my foundational passion for software engineering.
+                    I love turning complex problems into elegant, user-friendly applications - specializing in **Web and Android Development**. I'm motivated, eager to learn, and always looking to push the boundaries of what I can build!
+
+                    - Education: B.Tech CSE (Ongoing) & Diploma in CS
+                    - Current Focus: Advanced Web Architectures, Android Ecosystem, and algorithms
+                    - Goal: Building impactful products that solve real-world problems
+                    - Ask me about: Java, Python, Frontend web design, or Android App development
+
+                    ---
+
+                    ### Languages and Tools
+
+                    <table>
+                      <tr>
+                          <td align="center" width="96">
+                                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+                                      <br />Java
+                                          </td>
+                                              <td align="center" width="96">
+                                                    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+                                                          <br />Python
+                                                              </td>
+                                                                  <td align="center" width="96">
+                                                                        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+                                                                              <br />C
+                                                                                  </td>
+                                                                                      <td align="center" width="96">
+                                                                                            <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+                                                                                                  <br />C++
+                                                                                                      </td>
+                                                                                                          <td align="center" width="96">
+                                                                                                                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+                                                                                                                      <br />HTML5
+                                                                                                                          </td>
+                                                                                                                              <td align="center" width="96">
+                                                                                                                                    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+                                                                                                                                          <br />CSS3
+                                                                                                                                              </td>
+                                                                                                                                                </tr>
+                                                                                                                                                  <tr>
+                                                                                                                                                      <td align="center" width="96">
+                                                                                                                                                            <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+                                                                                                                                                                  <br />JavaScript
+                                                                                                                                                                      </td>
+                                                                                                                                                                          <td align="center" width="96">
+                                                                                                                                                                                <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
+                                                                                                                                                                                      <br />Android
+                                                                                                                                                                                          </td>
+                                                                                                                                                                                              <td align="center" width="96">
+                                                                                                                                                                                                    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+                                                                                                                                                                                                          <br />PHP
+                                                                                                                                                                                                              </td>
+                                                                                                                                                                                                                  <td align="center" width="96">
+                                                                                                                                                                                                                        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+                                                                                                                                                                                                                              <br />MySQL
+                                                                                                                                                                                                                                  </td>
+                                                                                                                                                                                                                                      <td align="center" width="96">
+                                                                                                                                                                                                                                            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                                                                                                                                                                                                                                                  <
+                                                                                                                                                                                                                                                        <br />Git
+                                                                                                                                                                                                                                                            </td>
+                                                                                                                                                                                                                                                                <td align="center" width="96">
+                                                                                                                                                                                                                                                                      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+                                                                                                                                                                                                                                                                            <br />VS Code
+                                                                                                                                                                                                                                                                                </td>
+                                                                                                                                                                                                                                                                                  </tr>
+                                                                                                                                                                                                                                                                                  </table>
+                                                                                                                                                                                                                                                                                  ---
+                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                  ### Featured Projects
+                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                  *   E-Commerce Platform
+                                                                                                                                                                                                                                                                                      *   Description: A sleek, responsive, and modern web application for seamless online shopping and inventory management.
+                                                                                                                                                                                                                                                                                          *   Tech Stack: HTML5, CSS3, JavaScript, PHP, MySQL
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                          *   Academic Diary App
+                                                                                                                                                                                                                                                                                              *   Description: A mobile application helping students organize classes, track schedules, and log course notes.
+                                                                                                                                                                                                                                                                                                  *   Tech Stack: Java (Android SDK), PHP Backend, MySQL Database
+                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                  *   AI Image Generator
+                                                                                                                                                                                                                                                                                                      *   Description: A software tool that interfaces with AI pipelines to generate beautiful, descriptive visuals from user prompts.
+                                                                                                                                                                                                                                                                                                          *   Tech Stack: Python, APIs, Tkinter / CustomTkinter
+                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                          ---
+                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                          ### GitHub Stats and Contributions
+                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                          <p align="left">
+                                                                                                                                                                                                                                                                                                            <img src="https://github-readme-stats.vercel.app/api?username=someshwar-songara&show_icons=true&theme=tokyonight&locale=en" alt="Someshwar's GitHub stats" height="150" />
+                                                                                                                                                                                                                                                                                                              &nbsp;&nbsp;
+                                                                                                                                                                                                                                                                                                                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&theme=tokyonight" alt="Someshwar's top languages" height="150" />
+                                                                                                                                                                                                                                                                                                                </p>
+                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                ---
+                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                <p align="center">
+                                                                                                                                                                                                                                                                                                                  <em>Thanks for visiting! Feel free to explore my repositories or connect with me on <a href="https://www.linkedin.com/in/someshwar-songara/">LinkedIn</a>.</em>
+                                                                                                                                                                                                                                                                                                                  </p>
