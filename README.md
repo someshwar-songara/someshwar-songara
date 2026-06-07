@@ -1,3 +1,8 @@
+# Someshwar Songara
+<a href="https://github.com/someshwar-songara/someshwar-songara">
+  <img src="banner.svg" alt="Someshwar Songara Banner" width="100%">
+</a>
+
 # Hi there 👋, I'm Someshwar Songara
 
 ### B.Tech CSE Student | Web & Android Development | Java, C, C++, Python
