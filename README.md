@@ -90,7 +90,7 @@
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=someshwar-songara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=someshwar-songara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 ---
