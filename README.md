@@ -121,7 +121,7 @@
 |---|---|
 | LinkedIn | [someshwar-songara](https://www.linkedin.com/in/someshwar-songara/) |
 | GitHub | [someshwar-songara](https://github.com/someshwar-songara) |
-| Email | [someshwar.songara@gmail.com](mailto:someshwar.songara@gmail.com) |
+
 
 <br/>
 
