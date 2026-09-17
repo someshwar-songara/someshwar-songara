@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img width="49%" src="github-profile-trophy-tawny.vercel.app/api?username=someshwar-songara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E54E9&icon_color=4776E6&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E54E9&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E54E9&icon_color=4776E6&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E54E9&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=someshwar-songara&theme=tokyonight&hide_border=true&background=0d1117&stroke=8E54E9&ring=8E54E9&fire=FF6B35&currStreakLabel=8E54E9&sideLabels=ffffff&dates=8888aa" />
+<img width="70%" src="https://streak-stats.demolab.com?user=someshwar-songara&theme=tokyonight&hide_border=true&background=0d1117&stroke=8E54E9&ring=8E54E9&fire=FF6B35&currStreakLabel=8E54E9&sideLabels=ffffff&dates=8888aa" />
 
 </div>
 
@@ -90,7 +90,7 @@
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=someshwar-songara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=someshwar-songara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=8E54E9&line=4776E6&point=ffffff&area_color=8E54E9&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" width="100%"/>
+<img src="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=8E54E9&line=4776E6&point=ffffff&area_color=8E54E9&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -119,6 +119,7 @@
 
 | Platform | Link |
 |---|---|
+| Portfolio | [portfolio-chi-eight-36.vercel.app](https://portfolio-chi-eight-36.vercel.app/) |
 | LinkedIn | [someshwar-songara](https://www.linkedin.com/in/someshwar-songara/) |
 | GitHub | [someshwar-songara](https://github.com/someshwar-songara) |
 
@@ -127,7 +128,7 @@
 
 **Ask me about:** `Java` `Web Dev` `Android` `DSA` `Open Source`
 
-**2025 Goals:** Build impactful projects | Land first Internship | Master Full-Stack Dev
+**2026 Goals:** Build impactful projects | Land first Internship | Master Full-Stack Dev
 
 <br/>
 
