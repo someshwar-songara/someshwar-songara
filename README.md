@@ -203,15 +203,14 @@ identity:
 
 ---
 
-<!-- ==================== INSPIRATION / QUOTE ==================== -->
-## 💬 Engineering Wisdom
+<!-- ==================== THOUGHT / INSPIRATION ==================== -->
+## 💭 Words to Code By
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="85%" alt="Developer Quote" />
-  </picture>
+
+> *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**
+
 </div>
 
 <br/>
