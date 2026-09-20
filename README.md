@@ -150,24 +150,24 @@ identity:
 
   <!-- OVERVIEW STATS (Auto-adapts to Light & Dark Theme) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=38bdf8&text_color=cbd5e1&count_private=true&include_all_commits=true&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=334155&count_private=true&include_all_commits=true&border_radius=12" />
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=334155&count_private=true&include_all_commits=true&border_radius=12" alt="Someshwar's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=38bdf8&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=1e293b&count_private=true&include_all_commits=true&border_radius=12" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=1e293b&count_private=true&include_all_commits=true&border_radius=12" alt="Someshwar's GitHub Stats" />
   </picture>
   <!-- TOP LANGUAGES (Auto-adapts to Light & Dark Theme) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&text_color=cbd5e1&langs_count=8&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=334155&langs_count=8&border_radius=12" />
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=334155&langs_count=8&border_radius=12" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&text_color=ffffff&langs_count=8&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=1e293b&langs_count=8&border_radius=12" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=1e293b&langs_count=8&border_radius=12" alt="Top Languages" />
   </picture>
 
   <br/><br/>
 
   <!-- COMMIT STREAK (Auto-adapts to Light & Dark Theme) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=0d1117&border=30363d&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=cbd5e1&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=64748b&dates=334155&border_radius=12" />
-    <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=64748b&dates=334155&border_radius=12" alt="Commit Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=0d1117&border=30363d&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=94a3b8&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=7c3aed&sideLabels=334155&dates=64748b&border_radius=12" />
+    <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=7c3aed&sideLabels=334155&dates=64748b&border_radius=12" alt="Commit Streak" />
   </picture>
 
 </div>
