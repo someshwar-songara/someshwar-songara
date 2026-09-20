@@ -14,9 +14,9 @@
   <br/>
 
   <!-- STATUS BADGES -->
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-Open%20for%20Opportunities-success?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Ujjain%2C%20India-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=someshwar-songara&label=%E2%9C%A8%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-Open%20for%20Opportunities-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Ujjain%2C%20India-blueviolet?style=for-the-badge" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=someshwar-songara&label=%E2%9C%A8%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 
   <br/><br/>
 
@@ -69,7 +69,7 @@ identity:
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; border: 1px solid #30363d; box-shadow: 0 10px 30px -10px rgba(124, 58, 237, 0.3);"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px -10px rgba(124, 58, 237, 0.2);"/>
 
 </td>
 </tr>
@@ -143,27 +143,32 @@ identity:
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS & STREAKS ==================== -->
+<!-- ==================== GITHUB ANALYTICS & STREAKS (AUTO LIGHT/DARK ADAPTIVE) ==================== -->
 ## 📊 GitHub Analytics & Growth
 
 <div align="center">
 
-  <!-- GITHUB METRICS GRID -->
-  <table border="0" style="border-collapse: collapse;">
-    <tr>
-      <td>
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=cbd5e1&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cbd5e1&langs_count=8&border_radius=12" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <!-- OVERVIEW STATS (Auto-adapts to Light & Dark Theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=38bdf8&text_color=cbd5e1&count_private=true&include_all_commits=true&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=334155&count_private=true&include_all_commits=true&border_radius=12" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&icon_color=4f46e5&text_color=334155&count_private=true&include_all_commits=true&border_radius=12" alt="Someshwar's GitHub Stats" />
+  </picture>
+  <!-- TOP LANGUAGES (Auto-adapts to Light & Dark Theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=a855f7&text_color=cbd5e1&langs_count=8&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=334155&langs_count=8&border_radius=12" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=false&bg_color=ffffff&border_color=e2e8f0&title_color=7c3aed&text_color=334155&langs_count=8&border_radius=12" alt="Top Languages" />
+  </picture>
 
-  <br/>
+  <br/><br/>
 
-  <!-- STREAK METRICS -->
-  <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=cbd5e1&border_radius=12" alt="Commit Streak" />
+  <!-- COMMIT STREAK (Auto-adapts to Light & Dark Theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=0d1117&border=30363d&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=cbd5e1&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=64748b&dates=334155&border_radius=12" />
+    <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=false&background=ffffff&border=e2e8f0&stroke=7c3aed&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=64748b&dates=334155&border_radius=12" alt="Commit Streak" />
+  </picture>
 
 </div>
 
@@ -171,18 +176,26 @@ identity:
 
 ---
 
-<!-- ==================== TROPHIES & CONTRIBUTION GRAPH ==================== -->
+<!-- ==================== TROPHIES & CONTRIBUTION GRAPH (AUTO LIGHT/DARK ADAPTIVE) ==================== -->
 ## 🏆 Honors & Git Trajectory
 
 <div align="center">
 
   <!-- TROPHIES -->
-  <img src="https://github-trophies.vercel.app/?username=someshwar-songara&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=someshwar-songara&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=someshwar-songara&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6" />
+    <img src="https://github-trophies.vercel.app/?username=someshwar-songara&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="GitHub Trophies" />
+  </picture>
 
   <br/><br/>
 
-  <!-- INTERACTIVE ACTIVITY GRAPH -->
-  <img src="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=a855f7&line=38bdf8&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Someshwar's%20Interactive%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  <!-- CONTRIBUTION ACTIVITY GRAPH (Auto-adapts to Light & Dark Theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=a855f7&line=38bdf8&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=ffffff&color=7c3aed&line=4f46e5&point=7c3aed&area_color=e0e7ff&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" />
+    <img src="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=ffffff&color=7c3aed&line=4f46e5&point=7c3aed&area_color=e0e7ff&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+  </picture>
 
 </div>
 
@@ -194,7 +207,11 @@ identity:
 ## 💬 Engineering Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Developer Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="85%" alt="Developer Quote" />
+  </picture>
 </div>
 
 <br/>
