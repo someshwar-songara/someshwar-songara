@@ -1,28 +1,41 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4F46E5,50:7C3AED,100:DB2777&height=220&section=header&text=Someshwar%20Songara&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Android%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=19&descColor=e0e7ff&animation=fadeIn" width="100%"/>
+<a id="top"></a>
 
-  <!-- TYPING SVG SUBTITLE -->
+<!-- ==================== HERO SECTION ==================== -->
+<div align="center">
+
+  <!-- DYNAMIC GRADIENT HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:3B82F6,30:8B5CF6,70:EC4899,100:F43F5E&height=240&section=header&text=SOMESHWAR%20SONGARA&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Crafting%20Scalable%20Web%20Architectures%20%7C%20Android%20Innovations%20%7C%20Open-Source&descAlignY=58&descSize=18&descColor=e0e7ff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Someshwar+Songara+%F0%9F%91%8B;B.Tech+CSE+Student+%40+MIT+Ujjain;Web+%26+Android+App+Developer;Building+Impactful+Open-Source+Projects;Always+Learning+%C2%B7+Always+Evolving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%91%8B+Hey+there%2C+World!+I'm+Someshwar+Songara;%F0%9F%8E%93+B.Tech+CSE+Scholar+%40+MIT+Ujjain;%E2%9A%A1+Web+%26+Android+Application+Developer;%F0%9F%9A%80+Turning+Complex+Problems+into+Clean+Code;%F0%9F%92%A1+Always+Building+%C2%B7+Always+Evolving" alt="Typing Headline" />
   </a>
 
   <br/>
 
+  <!-- STATUS BADGES -->
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-Open%20for%20Opportunities-success?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Ujjain%2C%20India-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=someshwar-songara&label=%E2%9C%A8%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+
+  <br/><br/>
+
   <!-- SOCIAL / BADGES BAR -->
   <a href="https://portfolio-chi-eight-36.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/someshwar-songara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/someshwar-songara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
+  &nbsp;
   <a href="mailto:someshwar.songara1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=someshwar-songara&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -30,135 +43,204 @@
 
 ---
 
-### 👨‍💻 About Me
+<!-- ==================== ABOUT ME SECTION ==================== -->
+## 👨‍💻 `whoami` & Core Philosophy
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td width="58%" valign="top">
 
-> *"Code is not just syntax — it's creativity, logic, and passion woven together."*
+```yaml
+identity:
+  name: Someshwar Songara
+  degree: B.Tech CSE @ MIT Group of Institutes, Ujjain (2025–2028)
+  foundation: Diploma in Computer Science @ Govt. Polytechnic College
+  domain: Full-Stack Web & Android Architecture
+  mantra: "Code is not just syntax — it's logic sculpted with passion."
+```
 
-🎓 **Education:** 
-- **B.Tech in Computer Science & Engineering** @ MIT Group of Institutes, Ujjain *(2025–2028)*  
-- **Diploma in Computer Science** @ Govt. Polytechnic College  
-📍 **Location:** Ujjain, Madhya Pradesh, India 🇮🇳  
-
----
-
-- 🚀 Currently architecting **Modern Web & Android Applications**  
-- 📚 Expanding horizons in **React.js · Node.js · Flutter · Cloud & Microservices**  
-- 🧠 Sharpening problem-solving through **DSA & System Design**  
-- 🤝 Actively seeking **Summer Internships & Open-Source Collaborations**  
-- ⚡ **Fun Fact:** Coffee + Lo-Fi Beats = 10x Debugging Speed!  
+### ⚡ Highlights & Ambitions:
+- 🚀 **Building:** Modern, responsive full-stack web platforms and high-performance Android applications.
+- 📚 **Specializing:** Microservice structures, clean code patterns, and modern state management.
+- 💡 **Algorithmic Focus:** Honing intuition in Data Structures, Algorithms & System Design.
+- 🤝 **Ready For:** Summer Internships, Software Engineering roles & Open-Source co-creation.
+- 🎧 **Fun Fact:** Bugs vanish twice as fast when paired with black coffee & deep lo-fi beats!
 
 </td>
-<td valign="top" width="40%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:14px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; border: 1px solid #30363d; box-shadow: 0 10px 30px -10px rgba(124, 58, 237, 0.3);"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-### 🛠️ Tech Stack & Arsenal
+<!-- ==================== TECH STACK SECTION ==================== -->
+## 🛠️ Tech Arsenal & Specialties
 
 <div align="center">
 
-#### 🌐 Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,kotlin&theme=dark" />
-</p>
-
-#### 🎨 Frontend Architecture
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
-#### ⚙️ Backend, Mobile & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,express,firebase,mysql,mongodb&theme=dark" />
-</p>
-
-#### 🧰 Tools, Platforms & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,vercel&theme=dark" />
-</p>
+<table>
+<tr>
+  <td align="center" width="50%">
+    <b>🌐 Languages & Core</b><br/><br/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,js,ts&theme=dark" alt="Languages"/>
+  </td>
+  <td align="center" width="50%">
+    <b>🎨 Frontend & UI Systems</b><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vite&theme=dark" alt="Frontend"/>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <b>⚙️ Backend, Mobile & DBs</b><br/><br/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,express,firebase,mysql,mongodb&theme=dark" alt="Backend and Mobile"/>
+  </td>
+  <td align="center" width="50%">
+    <b>🧰 Tools, Platforms & DevOps</b><br/><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,vercel&theme=dark" alt="DevOps and Tools"/>
+  </td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-### 📊 GitHub Activity & Statistics
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## 🚀 Featured Projects & Creations
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Application Suite
+> *Feature-rich, reactive Android applications built with Kotlin and Jetpack architecture.*
+- **Stack:** `Kotlin` • `Android Studio` • `Firebase` • `Material 3`
+- **Features:** Clean MVVM structure, offline-first syncing, smooth animations.
+- 🔗 **[Explore Repositories](https://github.com/someshwar-songara?tab=repositories)** • **[Live Demo](https://portfolio-chi-eight-36.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Modern Web Platform
+> *High-performance web apps built with responsive UX and robust API backends.*
+- **Stack:** `React.js` • `Node.js` • `Express` • `MongoDB` • `Tailwind`
+- **Features:** Secure JWT authentication, RESTful APIs, responsive dashboard.
+- 🔗 **[Explore Repositories](https://github.com/someshwar-songara?tab=repositories)** • **[Live Portfolio](https://portfolio-chi-eight-36.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS & STREAKS ==================== -->
+## 📊 GitHub Analytics & Growth
 
 <div align="center">
 
-  <!-- STATS & TOP LANGS CARDS (COHESIVE PALETTE) -->
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=cbd5e1&count_private=true&include_all_commits=true" alt="Someshwar's Stats" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cbd5e1&langs_count=8" alt="Top Languages" />
+  <!-- GITHUB METRICS GRID -->
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=someshwar-songara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=cbd5e1&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=someshwar-songara&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=cbd5e1&langs_count=8&border_radius=12" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- STREAK METRICS -->
+  <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=cbd5e1&border_radius=12" alt="Commit Streak" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ==================== TROPHIES & CONTRIBUTION GRAPH ==================== -->
+## 🏆 Honors & Git Trajectory
+
+<div align="center">
+
+  <!-- TROPHIES -->
+  <img src="https://github-trophies.vercel.app/?username=someshwar-songara&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="GitHub Trophies"/>
 
   <br/><br/>
 
-  <!-- STREAK STATS -->
-  <img width="98%" src="https://streak-stats.demolab.com?user=someshwar-songara&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=cbd5e1" alt="Streak Stats" />
+  <!-- INTERACTIVE ACTIVITY GRAPH -->
+  <img src="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=a855f7&line=38bdf8&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Someshwar's%20Interactive%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
 
+<br/>
+
 ---
 
-### 🏆 GitHub Trophies
+<!-- ==================== INSPIRATION / QUOTE ==================== -->
+## 💬 Engineering Wisdom
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=someshwar-songara&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="Trophies"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Developer Quote"/>
 </div>
 
----
-
-### 📈 Activity & Contribution Heatmap
-
-<div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=someshwar-songara&bg_color=0d1117&color=a855f7&line=38bdf8&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Someshwar's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-</div>
+<br/>
 
 ---
 
-### 💡 Daily Developer Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Dev Quote"/>
-</div>
-
----
-
-### 📬 Connect With Me
+<!-- ==================== GET IN TOUCH & FOOTER ==================== -->
+## 🤝 Let's Connect & Build Together!
 
 <div align="center">
 
-<p>I'm always open to discussing new opportunities, collaborations, or tech topics!</p>
+<p>Have an exciting opportunity, project idea, or just want to talk tech? My inbox is always open!</p>
 
 <a href="https://portfolio-chi-eight-36.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-7C3AED?style=flat-square&logo=vercel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Live%20Portfolio-Check%20It%20Out-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/someshwar-songara/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
 </a>
+&nbsp;
 <a href="mailto:someshwar.songara1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
 </a>
+&nbsp;
 <a href="https://github.com/someshwar-songara" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 <br/><br/>
 
-🎯 **Target Milestones:** Land First SWE Internship 💼 • Ship High-Impact Open-Source Apps 🚀 • Master Microservices & Distributed Systems 🌐
+🎯 **2026 Focus:** High-Impact Open-Source • Software Engineering Internships • Distributed Architectures
 
 <br/>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4F46E5,50:7C3AED,100:DB2777&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:3B82F6,30:8B5CF6,70:EC4899,100:F43F5E&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner"/>
 
-⭐ **Liked my profile? Don't forget to leave a star on my repositories!** ⭐
+<br/>
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/%E2%AC%86%20Back%20To%20Top-181717?style=flat-square" alt="Back to top"/>
+</a>
+
+<br/><br/>
+
+⭐ **If you appreciate my work, don't forget to star my repositories!** ⭐
 
 </div>
